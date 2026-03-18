@@ -55,7 +55,7 @@ const CONFIG = {
   sections: [
     {
       type: "greeting",
-      title: "Hi",
+      title: "Hi Atharva",
       subtitle: "I really like your name btw!",
     },
     {
@@ -65,12 +65,12 @@ const CONFIG = {
     },
     {
       type: "announcement",
-      text: "It's your birthday!! :D",
+      text: "It's your birthday!! Atharv:D",
     },
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "Happy birthday to youu Atharv!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
       buttonText: "Send",
     },
     {
